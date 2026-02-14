@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/depression-app/static/css/main.bafa42fc.css",
+    "main.js": "/depression-app/static/js/main.77dec50d.js",
+    "index.html": "/depression-app/index.html",
+    "main.bafa42fc.css.map": "/depression-app/static/css/main.bafa42fc.css.map",
+    "main.77dec50d.js.map": "/depression-app/static/js/main.77dec50d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafa42fc.css",
+    "static/js/main.77dec50d.js"
+  ]
+}
